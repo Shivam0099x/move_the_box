@@ -12,7 +12,7 @@
 Follow these steps to run the project locally:
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Shivam0099x/move_the_box.git
 
 2️⃣ Navigate to project
 cd move_the_box
